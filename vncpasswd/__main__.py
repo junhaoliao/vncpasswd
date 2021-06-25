@@ -1,4 +1,4 @@
-from vncpasswd.vnspasswd import *
+from .vncpasswd import *
 
 
 if __name__ == "__main__":

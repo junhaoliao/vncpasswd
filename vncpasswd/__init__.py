@@ -1,1 +1,1 @@
-from vncpasswd import *
+from .vncpasswd import *
